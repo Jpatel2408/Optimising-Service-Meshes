@@ -1,0 +1,30 @@
+
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine learning
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+lightgbm>=3.3.0
+joblib>=1.1.0
+
+# Reinforcement learning
+stable-baselines3>=1.6.0
+gym>=0.21.0
+
+# Kubernetes and Istio integration
+kubernetes>=24.0.0
+PyYAML>=6.0
+
+# Monitoring and metrics
+prometheus-api-client>=0.5.0
+
+# Load testing
+locust>=2.8.0
+Faker>=15.0.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+
